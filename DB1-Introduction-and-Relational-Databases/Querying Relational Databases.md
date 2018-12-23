@@ -40,9 +40,8 @@
 
   formal language
   이름으로 찾는다. 이론적인 근거가 탄탄하다.
-  $$
-  \Pi_{ID}\sigma_{GPA>3.7 \wedge C.name="stanford"}(Student \bowtie Apply)
-  $$
+
+  ![equation](https://latex.codecogs.com/svg.latex?%5CPi_%7BID%7D%5Csigma_%7BGPA%3E3.7%20%5Cwedge%20C.name%3D%22stanford%22%7D%28Student%20%5Cbowtie%20Apply%29)
 
 - SQL
 
