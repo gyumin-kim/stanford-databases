@@ -38,14 +38,14 @@
 
 - Relational Algebra
 
-  formal language
+  formal language  
   이름으로 찾는다. 이론적인 근거가 탄탄하다.
 
   ![equation](https://latex.codecogs.com/svg.latex?%5CPi_%7BID%7D%5Csigma_%7BGPA%3E3.7%20%5Cwedge%20C.name%3D%22stanford%22%7D%28Student%20%5Cbowtie%20Apply%29)
 
 - SQL
 
-  actual/implemented language
+  actual/implemented language  
   실제 배포된 데이터베이스 애플리케이션에서 실행하게 된다.
   relational algebra를 기반으로 한다.
 

@@ -1,4 +1,4 @@
-# The Relational Model
+# Select, Project, Join
 
 Relational Model은 DBMS의 근간이다. 근래 상업적인 데이터베이스 시스템에 널리 퍼져있다. 
 
